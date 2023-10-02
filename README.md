@@ -22,7 +22,7 @@ El programa realiza los siguientes cálculos:
 
 
 
-  ENG:
+ENG:
 
 Swimming Pool Calculation Algorithm in Java:
 
